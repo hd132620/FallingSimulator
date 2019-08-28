@@ -1,6 +1,6 @@
 # FallingSimulator
 
-
+기동 영상 https://www.youtube.com/watch?v=f9IChddzFWc
 
 물리적 지식을 바탕으로 한 하위 개념 시뮬레이터 개발
  시뮬레이터 개발을 이용한 언어로는 Python을 이용하였다. C/C++을 이용해 실행시간을 대폭 줄일 수 있었으나, 시각화모듈 구현이 힘들다는 점이 단점으로 작용하였다. Python은 scipy, math, cmath, numpy 등의 각종 수학/과학 분야 모듈들이 존재했고 결정적으로 matplotlib과 pyplot 같은 데이터시각화 모델을 구현 없이 손쉽게 사용가능하다는 점이 선택한 큰 이유이다. 
